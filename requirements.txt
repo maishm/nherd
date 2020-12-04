@@ -11,8 +11,6 @@ base58==2.0.1
 bleach==3.1.5
 blinker==1.4
 blis==0.4.1
-boto3==1.15.11
-botocore==1.18.11
 bs4==0.0.1
 cachetools==4.1.1
 catalogue==1.0.0
@@ -50,14 +48,12 @@ mistune==0.8.4
 murmurhash==1.0.2
 numpy==1.19.1
 olefile==0.46
-openpyxl==3.0.5
 packaging==20.4
 pandas==1.1.1
 pandocfilters==1.4.2
 parso==0.7.1
 pathtools==0.1.2
 patsy==0.5.1
-pdfplumber==0.5.24
 pendulum==2.1.2
 pickleshare==0.7.5
 Pillow==7.2.0
@@ -90,8 +86,6 @@ python-dateutil==2.8.1
 python-pptx==0.6.18
 pytz==2020.1
 pytzdata==2020.1
-pywin32==228
-pywinpty==0.5.7
 PyYAML==5.3.1
 pyzmq==19.0.2
 qtconsole==4.7.7
